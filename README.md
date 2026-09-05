@@ -1,7 +1,6 @@
 # DevSecOps Security Pipeline
 
 A practical **DevSecOps CI/CD security pipeline** for a Node.js web application, integrating automated security checks into the software delivery workflow.
-
 The project demonstrates how application security can be integrated into CI/CD using **SAST, secret scanning, vulnerability scanning, IaC security scanning, Docker, Kubernetes, and Terraform**.
 
 ---
@@ -132,9 +131,7 @@ Checkov performs security analysis of Infrastructure-as-Code.
 
 The project contains Terraform configuration under:
 
-
 terraform/
-
 
 Checkov evaluates the Terraform configuration against security best practices and identifies potentially insecure configurations.
 
