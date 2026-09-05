@@ -85,7 +85,8 @@ The objective is to shift security testing earlier into the development lifecycl
 ## 🔐 Security Pipeline
 
 ### 1. Gitleaks — Secret Detection
-<img width="680" height="118" alt="gitleaks" src="https://github.com/user-attachments/assets/9443f06c-6235-4919-9328-e986bc0bc8ca" />
+<img src="./images/gitleaks.png" width="680" alt="Gitleaks Secret Detection">
+
 Gitleaks scans the repository for accidentally committed secrets such as:
 
 * API keys
@@ -99,8 +100,6 @@ This helps prevent credentials from reaching the source-code repository.
 ---
 
 ### 2. SonarQube Cloud — SAST
-<img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/5574f54a-80c7-4fde-8494-f2eaa5df81b0" />
-
 
 SonarQube Cloud performs **Static Application Security Testing (SAST)** against the Node.js application.
 
