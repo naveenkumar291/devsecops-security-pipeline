@@ -1,6 +1,3 @@
-<img width="1360" height="235" alt="gitleaks" src="https://github.com/user-attachments/assets/c84acdbb-52bd-4703-81e3-c2c533b0481c" />
-<img width="1360" height="235" alt="gitleaks" src="https://github.com/user-attachments/assets/9e40b36d-482e-450d-a2bf-8d148709fd1d" />
-<img width="680" height="118" alt="gitleaks" src="https://github.com/user-attachments/assets/07f76266-2550-4d68-b387-431e520d94f3" />
 # DevSecOps Security Pipeline
 
 A practical **DevSecOps CI/CD security pipeline** for a Node.js web application, integrating automated security checks into the software delivery workflow.
@@ -87,8 +84,7 @@ The objective is to shift security testing earlier into the development lifecycl
 ## 🔐 Security Pipeline
 
 ### 1. Gitleaks — Secret Detection![Uploading gitleaks.png…]()
-<img width="1360" height="235" alt="gitleaks" src="https://github.com/user-attachments/assets/dbb90514-004d-473c-afb3-c770c5e815b6" />
-
+<img width="680" height="118" alt="gitleaks" src="https://github.com/user-attachments/assets/07f76266-2550-4d68-b387-431e520d94f3" />
 
 * API keys
 * Access tokens
@@ -103,6 +99,8 @@ This helps prevent credentials from reaching the source-code repository.
 ### 2. SonarQube Cloud — SAST
 
 SonarQube Cloud performs **Static Application Security Testing (SAST)** against the Node.js application.
+
+<img width="1912" height="895" alt="SQ1" src="https://github.com/user-attachments/assets/4d533faa-7b30-4898-8492-56b1072361a6" />
 
 It provides analysis for:
 
