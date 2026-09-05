@@ -1,3 +1,5 @@
+<img width="1360" height="235" alt="gitleaks" src="https://github.com/user-attachments/assets/c84acdbb-52bd-4703-81e3-c2c533b0481c" />
+<img width="1360" height="235" alt="gitleaks" src="https://github.com/user-attachments/assets/9e40b36d-482e-450d-a2bf-8d148709fd1d" />
 <img width="680" height="118" alt="gitleaks" src="https://github.com/user-attachments/assets/07f76266-2550-4d68-b387-431e520d94f3" />
 # DevSecOps Security Pipeline
 
@@ -85,6 +87,7 @@ The objective is to shift security testing earlier into the development lifecycl
 ## 🔐 Security Pipeline
 
 ### 1. Gitleaks — Secret Detection![Uploading gitleaks.png…]()
+<img width="1360" height="235" alt="gitleaks" src="https://github.com/user-attachments/assets/dbb90514-004d-473c-afb3-c770c5e815b6" />
 
 
 * API keys
@@ -158,8 +161,6 @@ The Dockerized application provides a consistent runtime environment and can be 
 ---
 
 ## ☸️ Kubernetes Deployment
-<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/582eed4b-4654-430c-88de-f283984bee79" />
-
 
 The application is deployed to a local Kubernetes cluster using **Minikube**.
 
