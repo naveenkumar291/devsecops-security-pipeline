@@ -85,6 +85,8 @@ The objective is to shift security testing earlier into the development lifecycl
 ## 🔐 Security Pipeline
 
 ### 1. Gitleaks — Secret Detection
+<img width="940" height="163" alt="image" src="https://github.com/user-attachments/assets/de821ccb-cc28-46e0-aa0a-361c0fdb3d8a" />
+
 
 Gitleaks scans the repository for accidentally committed secrets such as:
 
@@ -99,6 +101,8 @@ This helps prevent credentials from reaching the source-code repository.
 ---
 
 ### 2. SonarQube Cloud — SAST
+<img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/5574f54a-80c7-4fde-8494-f2eaa5df81b0" />
+
 
 SonarQube Cloud performs **Static Application Security Testing (SAST)** against the Node.js application.
 
@@ -126,6 +130,8 @@ HIGH severity vulnerabilities.
 Findings are reviewed and assessed rather than automatically assuming that every reported vulnerability requires immediate remediation.
 
 ### 4. Checkov — Infrastructure Security
+<img width="940" height="191" alt="image" src="https://github.com/user-attachments/assets/016a78cf-b0ce-4e38-9352-b8bccdab021d" />
+
 
 Checkov performs security analysis of Infrastructure-as-Code.
 
@@ -159,6 +165,8 @@ The Dockerized application provides a consistent runtime environment and can be 
 ---
 
 ## ☸️ Kubernetes Deployment
+<img width="940" height="464" alt="image" src="https://github.com/user-attachments/assets/582eed4b-4654-430c-88de-f283984bee79" />
+
 
 The application is deployed to a local Kubernetes cluster using **Minikube**.
 
