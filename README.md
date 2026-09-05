@@ -1,3 +1,4 @@
+<img width="680" height="118" alt="gitleaks" src="https://github.com/user-attachments/assets/07f76266-2550-4d68-b387-431e520d94f3" />
 # DevSecOps Security Pipeline
 
 A practical **DevSecOps CI/CD security pipeline** for a Node.js web application, integrating automated security checks into the software delivery workflow.
@@ -85,6 +86,7 @@ The objective is to shift security testing earlier into the development lifecycl
 
 ### 1. Gitleaks — Secret Detection
 Gitleaks scans the repository for accidentally committed secrets such as:
+<img width="680" height="118" alt="gitleaks" src="https://github.com/user-attachments/assets/74304746-4145-4df6-88c8-7fa3fa0efa46" />
 
 * API keys
 * Access tokens
