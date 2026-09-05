@@ -85,8 +85,6 @@ The objective is to shift security testing earlier into the development lifecycl
 ## 🔐 Security Pipeline
 
 ### 1. Gitleaks — Secret Detection
-<img src="./images/gitleaks.png" width="680" alt="Gitleaks Secret Detection">
-
 Gitleaks scans the repository for accidentally committed secrets such as:
 
 * API keys
